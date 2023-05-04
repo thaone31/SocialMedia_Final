@@ -1,0 +1,5 @@
+<resources>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="app_name">DoAN</string>
+</resources>
